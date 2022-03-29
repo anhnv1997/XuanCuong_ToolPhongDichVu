@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToolLed_XuanCuong", "ToolLed_XuanCuong.csproj", "{6272C02D-D51A-4E99-A96D-38A8B8F94547}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kztek.LedController", "..\..\..\4.WorkWithControler\1.KztekDevice\2.Led\TestLed\Kztek.LedLibrary\Kztek.LedController.csproj", "{3B7D5F1D-E438-44FE-BC62-C2B7E6A81F2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectionConfig", "..\..\iParking_new\iParking_new\ConnectionConfig\ConnectionConfig.csproj", "{804A711F-A024-469F-BFBA-21B32359FA4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6272C02D-D51A-4E99-A96D-38A8B8F94547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6272C02D-D51A-4E99-A96D-38A8B8F94547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6272C02D-D51A-4E99-A96D-38A8B8F94547}.Debug|x86.ActiveCfg = Debug|x86
+		{6272C02D-D51A-4E99-A96D-38A8B8F94547}.Debug|x86.Build.0 = Debug|x86
+		{6272C02D-D51A-4E99-A96D-38A8B8F94547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6272C02D-D51A-4E99-A96D-38A8B8F94547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6272C02D-D51A-4E99-A96D-38A8B8F94547}.Release|x86.ActiveCfg = Release|x86
+		{6272C02D-D51A-4E99-A96D-38A8B8F94547}.Release|x86.Build.0 = Release|x86
+		{3B7D5F1D-E438-44FE-BC62-C2B7E6A81F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7D5F1D-E438-44FE-BC62-C2B7E6A81F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7D5F1D-E438-44FE-BC62-C2B7E6A81F2F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3B7D5F1D-E438-44FE-BC62-C2B7E6A81F2F}.Debug|x86.Build.0 = Debug|Any CPU
+		{3B7D5F1D-E438-44FE-BC62-C2B7E6A81F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7D5F1D-E438-44FE-BC62-C2B7E6A81F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B7D5F1D-E438-44FE-BC62-C2B7E6A81F2F}.Release|x86.ActiveCfg = Release|Any CPU
+		{3B7D5F1D-E438-44FE-BC62-C2B7E6A81F2F}.Release|x86.Build.0 = Release|Any CPU
+		{804A711F-A024-469F-BFBA-21B32359FA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804A711F-A024-469F-BFBA-21B32359FA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804A711F-A024-469F-BFBA-21B32359FA4E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{804A711F-A024-469F-BFBA-21B32359FA4E}.Debug|x86.Build.0 = Debug|Any CPU
+		{804A711F-A024-469F-BFBA-21B32359FA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804A711F-A024-469F-BFBA-21B32359FA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{804A711F-A024-469F-BFBA-21B32359FA4E}.Release|x86.ActiveCfg = Release|Any CPU
+		{804A711F-A024-469F-BFBA-21B32359FA4E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7AD2744-7079-4283-8951-5DD5E7BD6D59}
+	EndGlobalSection
+EndGlobal
